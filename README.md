@@ -1,7 +1,4 @@
-# Hello, I'm Syauqi 👋
-
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+# Hello, I'm Syauqidd![CSS](https://img.shields.io/badge/CSS-Expert-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![TypeScript](https://img.shields.io/badge/PHP-Intermediate-lightblue)
 
